@@ -1,0 +1,19 @@
+{
+ "CryptographyEnabled": true,
+  "DbString": "Provider=SQLOLEDB;Data Source=PC-MATTIA;Persist Security Info=True;User ID=sa;Initial Catalog=BBFarmaNet;password=",
+  "DbSqlConnection": "server=PC-MATTIA;database=BBFarmaNet;user ID=sa;password=",
+  "Password":"Blofj/xDuqtv/AXySSYZTA==",
+  "LogEnabled": true,
+  "LogExceptionEnabled": true,
+  "LogMagiclinkEnabled": true,
+  "LogRequestresponseEnabled": true,
+  "LogSqlEnabled": true,
+  "LogWithDatetimeEnabled": true,
+  "CheckIP": false,
+  "IpServerMago": "192.168.0.16",
+  "IpServerPriceTag": "192.168.2.3;192.168.102.2;192.168.0.153;192.168.34.145",
+  "IpRework": "192.168.21.40",
+  "WSWApp": "http://10.10.1.7:3561/bbmwappapi/bbmconfirmpicking",
+  "WebsitePort": 3555,
+  "WebsitePath": "C:\\inetpub\\wwwroot\\bbf2off\\" 
+}
